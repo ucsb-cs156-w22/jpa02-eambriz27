@@ -1,4 +1,4 @@
-# STARTER-jpa02
+# jpa02-eambriz27
 
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
@@ -10,7 +10,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-w22/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-w22/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-w22/jpa02-eambriz27
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
@@ -18,13 +18,13 @@ Repo: https://ucsb-cs156-w22/STARTER-jpa02
   https://cs156-w22-jpa02-cgaucho.herokuapp.com
 
 
-On Heroku: https://cs156-w22-jpa02-cgaucho.herokuapp.com
+On Heroku: https://jpa02-erinambriz.herokuapp.com/
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with 
   a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-cgaucho
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-eambriz27
 
 
 # About this repo
